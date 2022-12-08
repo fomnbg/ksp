@@ -5,7 +5,7 @@
 - Vier eingebaute Datentypen für Zahlen
     - Ganzzahl (Integer) z.B. 4321
     ```python
-    int()
+        int()
     ```
     - lange Ganzzahl
     - Fließkommazahlen
