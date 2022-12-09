@@ -22,3 +22,5 @@
     print("Hier kann stehen was du willst")
     print("Für Variablen anhängen: ", t5)
     ```
+- Operatoren
+    - \+ : 
