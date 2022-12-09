@@ -46,7 +46,7 @@
     ts3 = tname[:5] # Bereich beginnt bei 0
     ts4 = tname[0:-5] # Index mit einer negativen Zahl wird vom Ende aus gemessen
     ```
-- ### `len()`
+- #### `len()`
     ermittelt die Anzahl der Elemente
     ```python
     lg = len(tname)
