@@ -1,4 +1,5 @@
-# Zeichenketten: Datentyp `str`
+# Zeichenketten: 
+## Datentyp `str`
 
 - Kennzeichnung durch einfache, doppelte oder dreimal doppelte Hochkomma
     ```python
@@ -31,3 +32,6 @@
     ```python
     t7 = t1*3
     ```
+
+## Operationen 
+- #### Teilbereich von Sequenzen: Slices 
