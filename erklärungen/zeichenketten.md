@@ -23,4 +23,11 @@
     print("Für Variablen anhängen: ", t5)
     ```
 - Operatoren
-    - \+ : 
+    - \+ : Verkettung von Sequenzen: 
+    ```python
+    t6 = t1 + t2
+    ```
+    - \* : Vervielfachung von Sequenzen:
+    ```python
+    t7 = t1*3
+    ```
