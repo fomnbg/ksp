@@ -60,3 +60,5 @@
 - #### `find()`
     ergibt die Position, an der ein Suchtext innerhalb eines analysierten Textes vorkommt. Optional kann ein zweiter Parameter angegeben werden, ab welcher Position gesucht werden soll. Rückgabe -1 bedeutet, dass Suchtext
     nicht gefunden wurde
+- ### `replace()`
+    ersetzt einen gesuchten Teiltext durch einen anderen und liefert den geänderten Text zurück
